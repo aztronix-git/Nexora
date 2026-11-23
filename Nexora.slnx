@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Nexora/nexora.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
